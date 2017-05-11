@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Alexey Novgorodov [mailto:alexey.novgorodov@ramax.ru] 
+#  Monday, March 19, 2007 2:37 PM
+
 """Test Module."""
 
 from ma import *
